@@ -8,6 +8,36 @@ __hello man__
 
 ***hello there***
 
-# images
+# online_img
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYZuGMBZfe9A5iVrajvlyZDsp47__Mk-MQQ&usqp=CAU" width=100px height=100px>
+<img src="https://techcrunch.com/wp-content/uploads/2021/06/Eris-second-stage-firing_PR.png?w=730&crop=1">
+
+# offline_img
+
+<img src="https://raw.githubusercontent.com/pushpakpraneeth/marksample/main/space.jpg">
+
+# bullet points
+
++ c
+   + introduction to c
+     + history
+     + arrays
+   + pointers
+
+* python
+   * introduction to python
+   * opps in python
+
+- java
+   - introduction to java
+   - opps in java
+
+| S.no | languages | Inventors |
+|------|-----------|-----------|
+| 1    | Python    | Rossom    |
+| 2    | Java      | James     |
+| 3    | C         | John      |
+
+#Link
+
+[pacecollege](http://pace.ac.in/)
